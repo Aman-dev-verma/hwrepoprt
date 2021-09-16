@@ -1,0 +1,5 @@
+HOSTNAME = hostname
+MEMORY  = memory
+BIOS= bios_version
+Size of SDA = sda_size
+Size of SDB = sdb_size
